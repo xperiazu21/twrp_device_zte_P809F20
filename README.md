@@ -1,4 +1,4 @@
-#TWRP Device Tree for ZTE BLADE A320 (P809F20)
+# TWRP Device Tree for ZTE BLADE A320 (P809F20)
 
 ## Spec Sheet
 
